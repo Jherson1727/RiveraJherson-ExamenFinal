@@ -1,0 +1,14 @@
+# Carpetas de C# (.NET)
+server/bin/
+server/obj/
+server/out/
+
+# Carpetas de React (Node)
+client/node_modules/
+client/dist/
+
+# Archivos del sistema de Mac
+.DS_Store
+
+# Variables de entorno secretas (si llegas a tenerlas)
+.env
